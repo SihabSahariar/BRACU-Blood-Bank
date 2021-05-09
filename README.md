@@ -3,7 +3,7 @@ A GUI designed in Python using PyQT5 for BRACU Blood Bank.
 Information:
 ------------
 - Programming Language: Python
-- Compiler: PyQt5,Matplotlib,Pandas
+- Library: PyQt5,Matplotlib,Pandas
 
 Features:
 -----------------------
