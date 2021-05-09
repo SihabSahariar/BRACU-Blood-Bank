@@ -7,8 +7,8 @@ Information:
 
 Todo:
 -----------------------
-[.] Developed Graphical User Interface 
-[x] Backend and database
+- [x] Developed Graphical User Interface 
+- [ ] Backend and database
 
 Screenshot
 ---------------
