@@ -5,7 +5,7 @@ Information:
 - Programming Language: Python
 - Compiler: PyQt5,Matplotlib,Pandas
 
-Todo:
+Features:
 -----------------------
 - [x] Developed Graphical User Interface 
 - [ ] Backend and database
